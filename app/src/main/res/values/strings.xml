@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LocationKotlinExample</string>
+
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="txt_show_map">Show in Map</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
