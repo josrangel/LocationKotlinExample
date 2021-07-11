@@ -15,6 +15,10 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 
+/** Tutorial
+ * https://www.tutorialspoint.com/how-to-get-the-current-gps-location-programmatically-on-android-using-kotlin
+ */
+
 class MainActivity : AppCompatActivity(), LocationListener {
 
     private lateinit var tvLatitude: TextView
